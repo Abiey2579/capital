@@ -18,3 +18,17 @@
 .bg-light-blue {
 	background-color: var(--Light-Blue) !important;
 }
+
+
+.text-dark-blue {
+	color: var(--Dark-Blue) !important;
+}
+.text-blue {
+	color: var(--Blue) !important;
+}
+.text-sky-blue {
+	color: var(--Sky-Blue) !important;
+}
+.text-light-blue {
+	color: var(--Light-Blue) !important;
+}
